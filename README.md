@@ -12,7 +12,7 @@ Concomitant with people beginning to understand their legal rights or entitlemen
 ![method_1](figs/method_fig_1.jpg "Method_1")
 
 ### Input adaptation
-![method_2](figs/method_fig_1.jpg "Method_2")
+![method_2](figs/method_fig_2.jpg "Method_2")
 
 ### Experiment reuslts 
 ![result](figs/result.jpg "Result")
