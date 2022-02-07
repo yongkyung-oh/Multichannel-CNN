@@ -9,10 +9,10 @@ Concomitant with people beginning to understand their legal rights or entitlemen
 
 ## Methodology
 ### Overview
-![method_1](figs/method_fig_1.jpg "Method_1")
+![method](figs/method_fig_1.jpg "Method")
 
 ### Input adaptation
-![method_2](figs/method_fig_2.jpg "Method_2")
+<p align="center"><img width="60%" src="figs/method_fig_2.jpg" /></p>
 
 ### Experiment reuslts 
-![result](figs/result.jpg "Result")
+<p align="center"><img width="60%" src="figs/result.jpg" /></p>
