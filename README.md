@@ -1,5 +1,5 @@
 # [Multichannel Convolution Neural Network for Gas Mixture Classification](https://yongkyung-oh.github.io/Multichannel-CNN/)
-(Working) YongKyung Oh, Chiehyeon Lim, Junghye Lee, Sewon Kim and SungIl Kim, **Multichannel Convolution Neural Network for Gas Mixture Classification**
+[Oh, Y., Lim, C., Lee, J., Kim, S., & Kim, S. (2022). Multichannel convolution neural network for gas mixture classification. Annals of Operations Research, 1-35.](https://link.springer.com/article/10.1007/s10479-022-04715-2)
 
 Corresponding author: SungIl Kim (sungil.kim@unist.ac.kr)
 
