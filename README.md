@@ -1,5 +1,8 @@
 # [Multichannel Convolution Neural Network for Gas Mixture Classification](https://yongkyung-oh.github.io/Multichannel-CNN/)
-[Oh, Y., Lim, C., Lee, J., Kim, S., & Kim, S. (2022). Multichannel convolution neural network for gas mixture classification. Annals of Operations Research, 1-35.](https://link.springer.com/article/10.1007/s10479-022-04715-2)
+
+(Working paper at ICDM 2021 Ph.D. forum) [Oh, Y. and Kim, S., "Multi-channel Convolution Neural Network for Gas Mixture Classification," 2021 International Conference on Data Mining Workshops (ICDMW), 2021, pp. 1094-1095](https://ieeexplore.ieee.org/abstract/document/9679920)
+
+(Full paper publication) [Oh, Y., Lim, C., Lee, J., Kim, S., & Kim, S. (2022). Multichannel convolution neural network for gas mixture classification. Annals of Operations Research, 1-35.](https://link.springer.com/article/10.1007/s10479-022-04715-2)
 
 Corresponding author: SungIl Kim (sungil.kim@unist.ac.kr)
 
