@@ -1,4 +1,4 @@
-# [Multichannel Convolution Neural Network for Gas Mixture Classification](https://yongkyung-oh.github.io/Multichannel-CNN/)
+# [Multichannel Convolution Neural Network for Gas Mixture Classification](https://yongkyung-oh.github.io/Multichannel-CNN/)[github](https://github.com/yongkyung-oh/Multichannel-CNN/)
 
 (Working paper at ICDM 2021 Ph.D. forum) [Oh, Y. and Kim, S., "Multi-channel Convolution Neural Network for Gas Mixture Classification," 2021 International Conference on Data Mining Workshops (ICDMW), 2021, pp. 1094-1095](https://ieeexplore.ieee.org/abstract/document/9679920)
 
@@ -15,7 +15,7 @@ Concomitant with people beginning to understand their legal rights or entitlemen
 ![method](figs/method_fig_1.jpg "Method")
 
 ### Input adaptation
-<p align="center"><img width="60%" src="figs/method_fig_2.jpg" /></p>
+<p align="center"><img width="80%" src="figs/method_fig_2.jpg" /></p>
 
 ### Experiment reuslts 
-<p align="center"><img width="60%" src="figs/result.jpg" /></p>
+<p align="center"><img width="80%" src="figs/result.jpg" /></p>
