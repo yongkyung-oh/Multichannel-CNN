@@ -36,5 +36,5 @@ Concomitant with people beginning to understand their legal rights or entitlemen
 ### Input adaptation
 <p align="center"><img width="80%" src="figs/method_fig_2.jpg" /></p>
 
-### Experiment reuslts 
+### Experiment results
 <p align="center"><img width="80%" src="figs/result.jpg" /></p>
