@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this software or method, please cite the paper below."
+title: "Multichannel convolution neural network for gas mixture classification"
+type: software
+authors:
+  - family-names: Oh
+    given-names: YongKyung
+  - family-names: Lim
+    given-names: Chiehyeon
+  - family-names: Lee
+    given-names: Junghye
+  - family-names: Kim
+    given-names: Sewon
+  - family-names: Kim
+    given-names: Sungil
+    orcid: "https://orcid.org/0000-0003-0208-4378"
+repository-code: "https://github.com/yongkyung-oh/Multichannel-CNN"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Multichannel convolution neural network for gas mixture classification"
+  authors:
+    - family-names: Oh
+      given-names: YongKyung
+    - family-names: Lim
+      given-names: Chiehyeon
+    - family-names: Lee
+      given-names: Junghye
+    - family-names: Kim
+      given-names: Sewon
+    - family-names: Kim
+      given-names: Sungil
+      orcid: "https://orcid.org/0000-0003-0208-4378"
+  journal: "Annals of Operations Research"
+  volume: 339
+  issue: "1-2"
+  start: "261"
+  end: "295"
+  year: 2024
+  month: 8
+  publisher:
+    name: "Springer Science and Business Media LLC"
+  issn: "1572-9338"
+  doi: 10.1007/s10479-022-04715-2
+  url: "https://link.springer.com/10.1007/s10479-022-04715-2"
