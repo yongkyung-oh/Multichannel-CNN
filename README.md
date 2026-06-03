@@ -15,7 +15,7 @@ Concomitant with people beginning to understand their legal rights or entitlemen
 If you use this repository, please cite the full journal paper:
 
 ```bibtex
-@article{oh2024multichannel,
+@article{oh_multichannel_2024,
   title     = {Multichannel convolution neural network for gas mixture classification},
   author    = {Oh, YongKyung and Lim, Chiehyeon and Lee, Junghye and Kim, Sewon and Kim, Sungil},
   journal   = {Annals of Operations Research},
